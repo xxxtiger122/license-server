@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "last_updated": "2024-01-15",
+  "licenses": [
+    {
+      "user_id": "user001",
+      "username": "张三",
+      "license_key": "ABC123DEF456GHI789",
+      "expire_date": "2024-12-31",
+      "features": ["basic", "premium"],
+      "status": "active",
+      "max_machines": 2,
+      "created_at": "2024-01-01",
+      "note": "测试用户"
+    },
+    {
+      "user_id": "user002", 
+      "username": "李四",
+      "license_key": "XYZ789ABC123DEF456",
+      "expire_date": "2024-06-30",
+      "features": ["basic"],
+      "status": "active",
+      "max_machines": 1,
+      "created_at": "2024-01-10",
+      "note": "普通用户"
+    }
+  ]
+}
