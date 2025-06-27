@@ -1,0 +1,9 @@
+{
+  "batch_codes": {
+    "major": "0c835d7c00e4481cb2040a3546f0f759",
+    "elective": "0c835d7c00e4481cb2040a3546f0f759"
+  },
+  "description": "批次代码配置，每年需要更新",
+  "last_updated": "2025-01-01",
+  "version": "1.0"
+} 
